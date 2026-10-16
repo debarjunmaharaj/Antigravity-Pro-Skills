@@ -1,6 +1,6 @@
 ---
 name: ui-ux-pro-max
-description: Senior-level UI/UX design and front-end build guidance for any interface: dashboards, admin panels, SaaS, e-commerce, portfolios, news portals, landing pages, auth flows, forms, data tables, mobile-first responsive layouts, and native-feeling mobile apps. Use for designing, reviewing, or building screens, design systems, wireframes, mockups, or HTML/CSS/React UI. Enforces realistic, human-made, non-generic output with full states, accessibility, and responsive behavior.
+description: "Senior-level UI/UX design and front-end build guidance for any interface, such as dashboards, admin panels, SaaS, e-commerce, portfolios, news portals, landing pages, auth flows, forms, data tables, mobile-first responsive layouts, and native-feeling mobile apps. Use for designing, reviewing, or building screens, design systems, wireframes, mockups, or HTML/CSS/React UI. Enforces realistic, human-made, non-generic output with full states, accessibility, and responsive behavior."
 ---
 
 # UI/UX Pro Max
